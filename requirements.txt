@@ -1,4 +1,9 @@
-spacy==3.7.2
-PyMuPDF==1.23.25
-secure-smtplib; python_version < "3.10"
+streamlit
+pandas
+python-docx
+PyMuPDF
+spacy
+email-validator
 python-dotenv
+torch
+sentence-transformers
