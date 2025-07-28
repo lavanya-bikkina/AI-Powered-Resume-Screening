@@ -21,7 +21,7 @@ SENDER_PASSWORD = os.getenv("EMAIL_PASS")
 
 nlp = spacy.load("en_core_web_sm")
 
-CV_FOLDER = "cvs1"
+CV_FOLDER = "cvs"
 DB_PATH = "job_screening.db"
 SKILL_FILE = "skills.txt"
 
